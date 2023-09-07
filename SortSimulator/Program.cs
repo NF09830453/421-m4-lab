@@ -32,6 +32,7 @@ namespace SortSimulator
             {
                 Console.WriteLine(desk.GetName() + ": " + desk.GetPrice());
             }
+            Console.Read(); // prevents Console from closing immediately
         }
     }
 }
