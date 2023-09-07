@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProductPackage
 {
-    internal abstract class Product : ProductIF
+    internal abstract class Product : ProductIF, IComparable<Product>
     {
         int id;
         string name;
@@ -37,6 +37,14 @@ namespace ProductPackage
         public void SetPrice(int newPrice)
         {
             this.price = newPrice;
+        }
+
+        public double CompareTo(Product other)
+        {
+            // Comparison logic
+            if (this.price < other.price) return -1;
+            else if (this.price > other.price) return 1;
+            else return 0;
         }
     }
 }

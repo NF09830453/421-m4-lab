@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProductPackage
 {
-    internal class Desk : Product
+    internal class Desk<T> : Product
     {
         public Desk(int id, string name, double price) : base(id, name, price) { }
     }

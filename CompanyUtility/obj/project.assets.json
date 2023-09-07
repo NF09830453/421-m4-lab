@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ProductPackage/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ProductPackage.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductPackage.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ProductPackage/1.0.0": {
+      "type": "project",
+      "path": "../ProductPackage/ProductPackage.csproj",
+      "msbuildProject": "../ProductPackage/ProductPackage.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ProductPackage >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Lena\\.nuget\\packages\\": {},
@@ -37,7 +56,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\SWENG-421\\M4-Lab\\CompanyUtility\\ProductPackage\\ProductPackage.csproj": {
+              "projectPath": "C:\\SWENG-421\\M4-Lab\\CompanyUtility\\ProductPackage\\ProductPackage.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
