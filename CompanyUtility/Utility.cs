@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CompanyUtility
 {
-    internal class Utility<T> where T : ProductIF
+    public class Utility<T> where T : ProductIF
     {
         string sortName;
         public Utility() 
@@ -29,14 +29,16 @@ namespace CompanyUtility
             this.sortName = newName;
         }
 
-        public virtual List<T> Sort<T>(List<T> data) where T : IComparable<T>
+        public virtual List<T> Sort(List<T> data) 
         {
             // Bubble sort with CompareTo
             for (int i = 0; i < data.Count - 1; i++)
             {
                 for (int j = 0; j < data.Count - i - 1; j++)
                 {
-                    if (data[j].CompareTo(data[j + 1]) > 0) // Use CompareTo
+                    ProductIF p1 = data[j];
+                    ProductIF p2 = data[j + 1];
+                    if (p1.CompareTo(p2) > 0) // Use CompareTo
                     {
                         T temp = data[j];
                         data[j] = data[j + 1];

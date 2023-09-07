@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ProductPackage
 {
-    public interface ProductIF
+    public interface ProductIF : IComparable<ProductIF>
     {
-        
+        double GetPrice();
+        int CompareTo(ProductIF other);
+
     }
 }

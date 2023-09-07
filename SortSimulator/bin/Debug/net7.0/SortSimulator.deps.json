@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SortSimulator/1.0.0": {
+        "dependencies": {
+          "CompanyUtility": "1.0.0",
+          "ProductPackage": "1.0.0"
+        },
+        "runtime": {
+          "SortSimulator.dll": {}
+        }
+      },
+      "CompanyUtility/1.0.0": {
+        "dependencies": {
+          "ProductPackage": "1.0.0"
+        },
+        "runtime": {
+          "CompanyUtility.dll": {}
+        }
+      },
+      "ProductPackage/1.0.0": {
+        "runtime": {
+          "ProductPackage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductPackage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

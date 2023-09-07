@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CompanyUtility
 {
-    internal class XYZ
+    public class XYZ
     {
         public Utility<ProductIF> utility;
     }

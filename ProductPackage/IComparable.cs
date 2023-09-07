@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ProductPackage
 {
-    interface IComparable<T>
+    public interface IComparable<T>
     {
-        double CompareTo(T other);
+        int CompareTo(T other);
     }
 }
