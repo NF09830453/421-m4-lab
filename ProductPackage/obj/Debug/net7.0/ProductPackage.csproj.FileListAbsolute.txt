@@ -12,3 +12,17 @@ C:\SWENG-421\M4-Lab\CompanyUtility\ProductPackage\obj\Debug\net7.0\refint\Produc
 C:\SWENG-421\M4-Lab\CompanyUtility\ProductPackage\obj\Debug\net7.0\ProductPackage.pdb
 C:\SWENG-421\M4-Lab\CompanyUtility\ProductPackage\obj\Debug\net7.0\ProductPackage.genruntimeconfig.cache
 C:\SWENG-421\M4-Lab\CompanyUtility\ProductPackage\obj\Debug\net7.0\ref\ProductPackage.dll
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\bin\Debug\net7.0\ProductPackage.exe
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\bin\Debug\net7.0\ProductPackage.deps.json
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\bin\Debug\net7.0\ProductPackage.runtimeconfig.json
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\bin\Debug\net7.0\ProductPackage.dll
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\bin\Debug\net7.0\ProductPackage.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\ProductPackage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\ProductPackage.AssemblyInfoInputs.cache
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\ProductPackage.AssemblyInfo.cs
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\ProductPackage.csproj.CoreCompileInputs.cache
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\ProductPackage.dll
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\refint\ProductPackage.dll
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\ProductPackage.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\ProductPackage.genruntimeconfig.cache
+D:\Saberfall Initiative Repo\421-m4-lab\ProductPackage\obj\Debug\net7.0\ref\ProductPackage.dll

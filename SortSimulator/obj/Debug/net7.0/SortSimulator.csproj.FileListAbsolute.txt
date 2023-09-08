@@ -24,3 +24,29 @@ C:\SWENG-421\M4-Lab\CompanyUtility\SortSimulator\bin\Debug\net7.0\CompanyUtility
 C:\SWENG-421\M4-Lab\CompanyUtility\SortSimulator\bin\Debug\net7.0\ProductPackage.pdb
 C:\SWENG-421\M4-Lab\CompanyUtility\SortSimulator\obj\Debug\net7.0\SortSimulator.csproj.AssemblyReference.cache
 C:\SWENG-421\M4-Lab\CompanyUtility\SortSimulator\obj\Debug\net7.0\SortSimulator.csproj.CopyComplete
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\CompanyUtility.deps.json
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\CompanyUtility.runtimeconfig.json
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\ProductPackage.deps.json
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\ProductPackage.runtimeconfig.json
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\ProductPackage.exe
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\CompanyUtility.exe
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\SortSimulator.exe
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\SortSimulator.deps.json
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\SortSimulator.runtimeconfig.json
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\SortSimulator.dll
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\SortSimulator.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\CompanyUtility.dll
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\ProductPackage.dll
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\CompanyUtility.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\bin\Debug\net7.0\ProductPackage.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.csproj.AssemblyReference.cache
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.AssemblyInfoInputs.cache
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.AssemblyInfo.cs
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.csproj.CoreCompileInputs.cache
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.csproj.CopyComplete
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.dll
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\refint\SortSimulator.dll
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\SortSimulator.genruntimeconfig.cache
+D:\Saberfall Initiative Repo\421-m4-lab\SortSimulator\obj\Debug\net7.0\ref\SortSimulator.dll

@@ -9,7 +9,7 @@ namespace ProductPackage
     public interface ProductIF : IComparable<ProductIF>
     {
         double GetPrice();
-        int CompareTo(ProductIF other);
+        //int CompareTo(ProductIF other);
 
     }
 }

@@ -19,3 +19,24 @@ C:\SWENG-421\M4-Lab\CompanyUtility\CompanyUtility\obj\Debug\net7.0\refint\Compan
 C:\SWENG-421\M4-Lab\CompanyUtility\CompanyUtility\obj\Debug\net7.0\CompanyUtility.pdb
 C:\SWENG-421\M4-Lab\CompanyUtility\CompanyUtility\obj\Debug\net7.0\CompanyUtility.genruntimeconfig.cache
 C:\SWENG-421\M4-Lab\CompanyUtility\CompanyUtility\obj\Debug\net7.0\ref\CompanyUtility.dll
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\ProductPackage.deps.json
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\ProductPackage.runtimeconfig.json
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\ProductPackage.exe
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\CompanyUtility.exe
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\CompanyUtility.deps.json
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\CompanyUtility.runtimeconfig.json
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\CompanyUtility.dll
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\CompanyUtility.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\ProductPackage.dll
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\bin\Debug\net7.0\ProductPackage.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.csproj.AssemblyReference.cache
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.AssemblyInfoInputs.cache
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.AssemblyInfo.cs
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.csproj.CoreCompileInputs.cache
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.csproj.CopyComplete
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.dll
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\refint\CompanyUtility.dll
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.pdb
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\CompanyUtility.genruntimeconfig.cache
+D:\Saberfall Initiative Repo\421-m4-lab\CompanyUtility\obj\Debug\net7.0\ref\CompanyUtility.dll

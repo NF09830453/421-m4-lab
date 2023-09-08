@@ -14,10 +14,10 @@ namespace SortSimulator
             Desk d4 = new Desk(4, "small desk", 5.85);
 
             List<ProductIF> desks = new List<ProductIF>();
-            desks.Add((ProductIF)d1);
-            desks.Add((ProductIF)d2);
-            desks.Add((ProductIF)d3);
-            desks.Add((ProductIF)d4);
+            desks.Add(d1);
+            desks.Add(d2);
+            desks.Add(d3);
+            desks.Add(d4);
 
             foreach (Desk desk in desks)
             {
@@ -32,6 +32,9 @@ namespace SortSimulator
             {
                 Console.WriteLine(desk.GetName() + ": " + desk.GetPrice());
             }
+            
+
+
             Console.Read(); // prevents Console from closing immediately
         }
     }
