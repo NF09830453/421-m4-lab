@@ -8,7 +8,7 @@ namespace ProductPackage
 {
     public abstract class Product : ProductIF
     {
-        int id;
+        private readonly int id;
         string name;
         double price;
 
@@ -32,6 +32,11 @@ namespace ProductPackage
         public double GetPrice()
         {
             return price;
+        }
+
+        public int getId()
+        {
+            return id;
         }
 
         public void SetPrice(int newPrice)

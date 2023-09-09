@@ -30,7 +30,7 @@ namespace SortSimulator
             Console.WriteLine("\nAfter sorting:");
             foreach (Desk desk in sortedDesks)
             {
-                Console.WriteLine(desk.GetName() + ": " + desk.GetPrice());
+                Console.WriteLine(desk.GetName() + ": " + desk.GetPrice()+ "; " + desk.getId());
             }
             
 
